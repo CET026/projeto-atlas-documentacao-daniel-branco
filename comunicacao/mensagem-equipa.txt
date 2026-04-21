@@ -1,0 +1,7 @@
+Assunto: Projeto Atlas – Início
+
+Equipa,
+O repositório foi criado e a documentação base está em construção.
+A partir de hoje, todo o trabalho será feito em branches diárias.
+
+Cumprimentos,
