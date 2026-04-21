@@ -9,8 +9,9 @@ Arranque do projeto e criação da base documental.
 - Objetivos definidos
 
 ## Riscos
-- Alterações concorrentes nos mesmos ficheiros
+- Falta de consistência entre versões de documentação
 
 ## Próximos passos
+- Rever objetivos
 - Atualizar cronograma
-- Registar novas decisões
+- Comunicar mudanças à equipa
