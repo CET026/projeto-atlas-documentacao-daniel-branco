@@ -1,10 +1,10 @@
 # Projeto Atlas – Objetivos
 
-Versão: 1.0
+Versão: 1.1
 Responsável: Equipa de Documentação
 
 ## Objetivo geral
-Criar documentação clara, organizada e verificável para suportar o trabalho diário.
+Criar documentação clara e organizada, com regras de validação e rastreabilidade.
 
 ## Objetivos específicos
 - Definir uma estrutura de pastas consistente
@@ -12,6 +12,6 @@ Criar documentação clara, organizada e verificável para suportar o trabalho d
 - Publicar relatórios regulares de estado
 
 ## Critérios de sucesso
-- Estrutura estável
-- Histórico compreensível
-- Integração apenas após validação
+- Estrutura	estável
+- Revisão	antes	de	integração
+- Registo	consistente	de	decisões
