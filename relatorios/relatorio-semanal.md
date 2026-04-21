@@ -9,8 +9,9 @@ Arranque do projeto e criação da base documental.
 - Objetivos definidos
 
 ## Riscos
-- Alterações concorrentes nos mesmos ficheiros
+- Conflitos	de	edição	em	secções	partilhadas
 
 ## Próximos passos
-- Atualizar cronograma
-- Registar novas decisões
+- Rever	procedimentos
+- Publicar	ata	02
+- Atualizar	lista	de	requisitos
