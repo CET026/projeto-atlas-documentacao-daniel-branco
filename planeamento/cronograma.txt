@@ -2,4 +2,5 @@ CRONOGRAMA – Semana 1
 D1: Criar estrutura e ficheiros base
 D2: Definir objetivos e requisitos
 D3: Registar reunião e comunicação
-D4: Preparar relatório semanal
+D4: Preparar relatório semanal e comunicar à equipa
+D5: Rever requisitos e prioridades
