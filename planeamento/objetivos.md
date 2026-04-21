@@ -12,6 +12,6 @@ Criar documentação clara e organizada, com regras de validação e rastreabili
 - Publicar relatórios regulares de estado
 
 ## Critérios de sucesso
-- Estrutura	estável
-- Revisão	antes	de	integração
-- Registo	consistente	de	decisões
+- Estrutura estável
+- Revisão antes de integração
+- Registo consistente de decisões
