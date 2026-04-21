@@ -4,7 +4,7 @@ Versão: 2.0
 Responsável: Equipa de Documentação
 
 ## Objetivo geral
-Criar documentação padronizada e reduzir erros operacionais através de processos claros.
+Criar documentação clara, organizada e padronizada, com regras de validação e rastreabilidade, de forma a reduzir erros operacionais por meio de processos bem definidos.
 
 ## Objetivos específicos
 - Definir uma estrutura de pastas consistente
