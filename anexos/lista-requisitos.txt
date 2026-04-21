@@ -1,0 +1,5 @@
+LISTA DE REQUISITOS – v1.0
+R1: Estrutura de pastas definida
+R2: Regras de validação documentadas
+R3: Ata de reunião registada
+R4: Relatório semanal publicado
