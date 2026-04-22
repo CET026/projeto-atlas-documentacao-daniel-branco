@@ -3,7 +3,7 @@
 Versão: 1.1
 
 ## Regra principal
-A	validação	deve	verificar	conteúdo,	formato	e	histórico	de	commits.
+A validação deve verificar conteúdo, formato e histórico de commits.
 Nunca fazer commits diretamente na main.
 
 ## Passos
@@ -11,4 +11,4 @@ Nunca fazer commits diretamente na main.
 2. Fazer commits claros
 3. Push para validação
 4. Integrar na main após aprovação
-5.	Encerrar	a	branch	diária	após	integração
+5. Encerrar a branch diária após integração
