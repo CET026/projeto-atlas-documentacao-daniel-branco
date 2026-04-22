@@ -1,9 +1,9 @@
 # Processo de Validação
 
-Versão: 1.2
+Versão: 2.0
 
 ## Regra principal
-A validação deve confirmar que não existem marcadores de conflito e que a main está protegida por processo.
+A validação deve garantir a consistência do conteúdo, confirmar a ausência de marcadores de conflito e assegurar a conformidade com as regras de branches diárias.
 Nunca fazer commits diretamente na main.
 
 ## Passos
