@@ -3,7 +3,7 @@
 Versão: 2.0
 
 ## Regra principal
-A validação deve garantir consistência do conteúdo e conformidade com as regras de branches diárias.
+A validação deve garantir a consistência do conteúdo, confirmar a ausência de marcadores de conflito e assegurar a conformidade com as regras de branches diárias.
 Nunca fazer commits diretamente na main.
 
 ## Passos
