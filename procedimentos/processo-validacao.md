@@ -1,6 +1,6 @@
 # Processo de Validação
 
-Versão: 1.1
+Versão: 1.2
 
 ## Regra principal
 A validação deve verificar conteúdo, formato e histórico de commits.
