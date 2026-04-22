@@ -1,7 +1,5 @@
-Assunto: Projeto Atlas – Início
+Assunto: Projeto Atlas – Atualização
 
-Equipa,
-O repositório foi criado e a documentação base está em construção.
-A partir de hoje, todo o trabalho será feito em branches diárias.
+Equipa, a documentação foi atualizada e ocorreram integrações com resolução de conflitos. Sincronize diariamente antes de editar ficheiros partilhados.
 
 Cumprimentos,

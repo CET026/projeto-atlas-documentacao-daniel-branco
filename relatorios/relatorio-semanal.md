@@ -10,8 +10,10 @@ Arranque do projeto e criação da base documental.
 
 ## Riscos
 - Conflitos de edição em secções partilhadas
+- Falta de consistência entre versões de documentação
 
 ## Próximos passos
 - Rever procedimentos
-- Publicar ata 02
+- Atualizar cronograma
 - Atualizar lista de requisitos
+- Comunicar mudanças à equipa
