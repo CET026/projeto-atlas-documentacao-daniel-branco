@@ -1,9 +1,9 @@
 # Processo de Validação
 
-Versão: 1.1
+Versão: 1.2
 
 ## Regra principal
-A validação deve verificar conteúdo, formato e histórico de commits.
+A validação deve confirmar que não existem marcadores de conflito e que a main está protegida por processo.
 Nunca fazer commits diretamente na main.
 
 ## Passos
